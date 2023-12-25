@@ -1,0 +1,22 @@
+.card_container{
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 6px;
+    border: 1px solid grey;
+    margin-bottom: 4px;
+}
+
+.task_heading{
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.due_date{
+    font-size: 14px;
+    font-weight: 500;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

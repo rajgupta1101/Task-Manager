@@ -1,0 +1,18 @@
+.Added_container{
+    flex:1;
+    overflow: auto;
+    background: #7264b8;
+    padding: 10px;
+}
+.Started_container{
+    flex:1;
+    overflow: auto;
+    background: #0088cb;
+    padding: 10px;
+}
+.Completed_container{
+    flex:1;
+    overflow: auto;
+    background: #259999;
+    padding: 10px;
+}

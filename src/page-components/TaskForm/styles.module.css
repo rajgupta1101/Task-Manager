@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    padding: 10px 20px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #444;
+}
+
+.content_section {
+    gap:10px;
+    display: flex;
+}
+
+.input_container{
+    border-radius: 6px;
+    padding: 6px;
+    border: 1px solid #4f4f4f;
+}
+
+.btn_container {
+    background-color: black;
+}
+
+.heading{
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+}
+.sub_container{
+    display: flex;
+    align-items: center;
+}
